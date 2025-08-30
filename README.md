@@ -304,18 +304,6 @@ The actor model enables excellent performance characteristics:
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- [ProtoActor](https://proto.actor/) for the excellent actor framework
-- Go community for amazing tools and libraries
-- Reddit for inspiration
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/<your-username>/reddit-clone-actor-model/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/<your-username>/reddit-clone-actor-model/discussions)
-- **Email**: your-email@example.com
-
 ---
 
 **Built with ❤️ and Go**
