@@ -305,5 +305,3 @@ The actor model enables excellent performance characteristics:
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-**Built with ❤️ and Go**
